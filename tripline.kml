@@ -1,0 +1,6789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<atom:link href="http://www.tripline.net/trip/Please_Look_After_This_Englishman%3A_Coast_To_Coast-616434736215100399E490EEDF564B82"/>
+<name>Please Look After This Englishman: Coast To Coast (created on Tripline)</name>
+<description><![CDATA[<br><br><a href="http://www.tripline.net/trip/Please_Look_After_This_Englishman%3A_Coast_To_Coast-616434736215100399E490EEDF564B82">view on Tripline</a><br><br>]]></description>
+<open>1</open>
+<gx:Tour>
+	<name>Play</name>
+	<gx:Playlist>
+		<gx:SoundCue>
+			<href>
+				http://d27w56c7cv5ine.cloudfront.net/a00000000000010009CEBD46B85432B67.mp3
+			</href>
+		</gx:SoundCue>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.39455103874207</longitude>
+				<latitude>37.7840707975532</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark1">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark1">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.20869541168213</longitude>
+				<latitude>37.419560713450196</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark2">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark2">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-121.9028377532959</longitude>
+				<latitude>37.33007175702071</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark3">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark3">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-121.500932</longitude>
+				<latitude>38.584842</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark4">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark4">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-121.84588372707367</longitude>
+				<latitude>39.72318086459336</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark5">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark5">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.39330649375916</longitude>
+				<latitude>40.58362397172647</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark6">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark6">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-121.77173137664795</longitude>
+				<latitude>42.22537130210413</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark7">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark7">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-123.09237599372864</longitude>
+				<latitude>44.05507873133573</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark8">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark8">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-123.1029224395752</longitude>
+				<latitude>44.63024509634495</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark9">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark9">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-123.028185</longitude>
+				<latitude>44.932328</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark10">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark10">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.676923</longitude>
+				<latitude>45.528922</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark11">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark11">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.4</longitude>
+				<latitude>47.6831</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark12">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark12">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.34463512897491</longitude>
+				<latitude>47.68211516622274</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark13">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark13">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.343779</longitude>
+				<latitude>47.6104658</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark14">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark14">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.32978105545044</longitude>
+				<latitude>47.598342908035356</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark15">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark15">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.197854</longitude>
+				<latitude>47.975512</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark16">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark16">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-120.306508</longitude>
+				<latitude>47.421871</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark17">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark17">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-119.549559</longitude>
+				<latitude>47.321556</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark18">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark18">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-117.413905</longitude>
+				<latitude>47.655924</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark19">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark19">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-95.843061</longitude>
+				<latitude>46.8299135</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark20">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark20">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-94.7950522</longitude>
+				<latitude>46.3545672</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark21">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark21">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-93.184834</longitude>
+				<latitude>44.963302</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark22">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark22">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-92.5375994</longitude>
+				<latitude>44.5665219</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark23">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark23">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-91.6397588</longitude>
+				<latitude>44.0444216</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark24">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark24">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-91.246027</longitude>
+				<latitude>43.834394</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark25">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark25">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.50537109375</longitude>
+				<latitude>43.98602173199627</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark26">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark26">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-89.7709579</longitude>
+				<latitude>43.6274794</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark27">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark27">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-89.467516</longitude>
+				<latitude>43.54721</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark28">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark28">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.91736125946045</longitude>
+				<latitude>43.03434482794988</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark29">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark29">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.90628910064697</longitude>
+				<latitude>42.718232097467556</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark30">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark30">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.805135</longitude>
+				<latitude>42.0740032</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark31">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark31">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.661504</longitude>
+				<latitude>41.837517</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark32">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark32">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-88.0800941</longitude>
+				<latitude>41.524987</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark33">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark33">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-88.983752</longitude>
+				<latitude>40.50834282</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark34">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark34">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-96.80854082107544</longitude>
+				<latitude>32.779391054332706</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark35">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark35">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-96.808531</longitude>
+				<latitude>32.776191</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark36">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark36">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.325678</longitude>
+				<latitude>32.752022</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark37">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark37">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.743891</longitude>
+				<latitude>30.265684</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark38">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark38">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.74567246437073</longitude>
+				<latitude>30.268685975741803</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark39">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark39">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.738192</longitude>
+				<latitude>30.266484</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark40">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark40">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.7491488</longitude>
+				<latitude>30.3276534</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark41">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark41">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.739014</longitude>
+				<latitude>30.262172</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark42">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark42">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.7395248413086</longitude>
+				<latitude>30.263626507653434</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark43">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark43">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.74461030960083</longitude>
+				<latitude>30.266221139241622</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark44">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark44">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.7422446012497</longitude>
+				<latitude>30.26303343937794</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark45">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark45">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.74061918258667</longitude>
+				<latitude>30.267073646083887</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark46">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark46">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.74533987045288</longitude>
+				<latitude>30.26748136413088</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark47">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark47">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.7425061</longitude>
+				<latitude>30.2686176</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark48">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark48">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.73464</longitude>
+				<latitude>30.397438</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark49">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark49">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.7535599</longitude>
+				<latitude>30.270649</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark50">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark50">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.75626182556152</longitude>
+				<latitude>30.269594057800575</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark51">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark51">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-97.9417689</longitude>
+				<latitude>29.876314</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark52">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark52">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-98.4788844</longitude>
+				<latitude>29.4196943</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark53">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark53">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-95.3678889</longitude>
+				<latitude>29.7664842</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark54">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark54">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-94.12763427</longitude>
+				<latitude>30.07625275</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark55">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark55">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-93.214612</longitude>
+				<latitude>30.238138</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark56">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark56">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.135376</longitude>
+				<latitude>29.930441</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark57">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark57">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.0986533</longitude>
+				<latitude>29.9653681</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark58">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark58">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.1301713</longitude>
+				<latitude>29.9476386</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark59">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark59">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.1300459</longitude>
+				<latitude>29.9475373</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark60">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark60">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.083989</longitude>
+				<latitude>29.980291</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark61">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark61">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.12797355651855</longitude>
+				<latitude>29.926671724759164</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark62">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark62">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.122877</longitude>
+				<latitude>29.935226</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark63">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark63">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.0775916</longitude>
+				<latitude>29.9454973</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark64">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark64">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.19134</longitude>
+				<latitude>32.301524</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark65">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark65">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-90.059966</longitude>
+				<latitude>35.130562</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark66">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark66">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-88.24095446</longitude>
+				<latitude>40.11577819</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark67">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark67">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.866089</longitude>
+				<latitude>41.11875772476196</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark68">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark68">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.62948513031006</longitude>
+				<latitude>41.877901218486535</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark69">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark69">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.6393985748291</longitude>
+				<latitude>41.87865211986829</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark70">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark70">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.518234</longitude>
+				<latitude>41.515027</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark71">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark71">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-87.15535606666667</longitude>
+				<latitude>40.94332125</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark72">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark72">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-86.8954923</longitude>
+				<latitude>40.419128</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark73">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark73">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-86.8998216</longitude>
+				<latitude>40.0430198</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark74">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark74">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-84.537091</longitude>
+				<latitude>39.11</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark75">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark75">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-79.0740662</longitude>
+				<latitude>38.1470035</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark76">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark76">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-78.491842</longitude>
+				<latitude>38.031536</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark77">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark77">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-77.02185273170471</longitude>
+				<latitude>38.89600966782142</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark78">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark78">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-77.023521</longitude>
+				<latitude>38.897041</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark79">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark79">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-77.03646004199982</longitude>
+				<latitude>38.881370412399775</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark80">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark80">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-77.03525841236115</longitude>
+				<latitude>38.889462878011365</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark81">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark81">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-77.00647830963135</longitude>
+				<latitude>38.89774646995226</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark82">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark82">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-76.615675</longitude>
+				<latitude>39.307345</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark83">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark83">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-75.18210363</longitude>
+				<latitude>39.96007251666666</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark84">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark84">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-74.75382506847382</longitude>
+				<latitude>40.21858938980686</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark85">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark85">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-74.329911</longitude>
+				<latitude>40.567427</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark86">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark86">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-74.16384100914001</longitude>
+				<latitude>40.73454335903537</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark87">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark87">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.14756554365158</longitude>
+				<latitude>42.21041745738999</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark88">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark88">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.1407731</longitude>
+				<latitude>42.5173544</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark89">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark89">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.086378</longitude>
+				<latitude>42.77329981327057</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark90">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark90">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-70.957758</longitude>
+				<latitude>42.9813098</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark91">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark91">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-70.9377309</longitude>
+				<latitude>43.1395483</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark92">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark92">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-70.6116667</longitude>
+				<latitude>43.3202778</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark93">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark93">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-70.2919</longitude>
+				<latitude>43.6536</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark94">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark94">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-70.28991889</longitude>
+				<latitude>43.65754365</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark95">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark95">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.06122255325317</longitude>
+				<latitude>42.365575658849274</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark96">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark96">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.08725070953369</longitude>
+				<latitude>42.34388730306965</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark97">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark97">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.0743761062622</longitude>
+				<latitude>42.34731686860313</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark98">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark98">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.41336441040039</longitude>
+				<latitude>41.829633313916666</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark99">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark99">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.56059</longitude>
+				<latitude>41.483794</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark100">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark100">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-71.95984840393066</longitude>
+				<latitude>41.34891499759739</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark101">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark101">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-72.09286451339722</longitude>
+				<latitude>41.354294941818225</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark102">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark102">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-72.92681694030762</longitude>
+				<latitude>41.29760602418046</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark103">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark103">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-73.18696975708008</longitude>
+				<latitude>41.177975654664785</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark104">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark104">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-73.54183673858643</longitude>
+				<latitude>41.04692886046984</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark105">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark105">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-73.98201942443848</longitude>
+				<latitude>40.77868912121111</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark106">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark106">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-73.99071504</longitude>
+				<latitude>40.735195</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark107">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark107">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-73.97946327924728</longitude>
+				<latitude>40.75801773059064</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark108">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark108">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-73.97717535495758</longitude>
+				<latitude>40.75280620914171</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark109">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark109">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-73.78340721130371</longitude>
+				<latitude>40.64372172111703</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark110">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark110">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:FlyTo>
+			<gx:duration>4.0</gx:duration>
+			<gx:flyToMode>bounce</gx:flyToMode>
+			<Camera>
+				<longitude>-122.32978105545</longitude>
+				<latitude>47.598342908035</latitude>
+				<altitude>20000</altitude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<heading>2.7</heading>
+				<tilt></tilt>
+			</Camera>
+		</gx:FlyTo>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark111">
+						<gx:balloonVisibility>1</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+		<gx:Wait>
+			<gx:duration>2</gx:duration>
+		</gx:Wait>
+		<gx:AnimatedUpdate>
+			<Update>
+				<targetHref/>
+				<Change>
+					<Placemark targetId="placemark111">
+						<gx:balloonVisibility>0</gx:balloonVisibility>
+					</Placemark>
+				</Change>
+			</Update>
+		</gx:AnimatedUpdate>
+	</gx:Playlist>
+</gx:Tour>
+<Folder>
+	<name><![CDATA[Please Look After This Englishman: Coast To Coast]]></name>
+	<open>1</open>
+	<Style id="icon1">
+		<IconStyle id="i1">
+			<Icon>
+				<href>http://www.tripline.net/api/icon1.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls1">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark1">
+		<name><![CDATA[Citizen Space]]></name>
+		<styleUrl>#icon1</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>Have wanted to visit for ages!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.39455103874207,37.7840707975532,0</coordinates>
+			</Point>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon2">
+		<IconStyle id="i2">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon2.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls2">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark2">
+		<name><![CDATA[US Venture Partners]]></name>
+		<styleUrl>#icon2</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.20869541168213,37.419560713450196,0</coordinates>
+			</Point>
+			<LineString id="line2">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.20869541168213,37.419560713450196,0 -122.39455103874207,37.7840707975532,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon3">
+		<IconStyle id="i3">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon3.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls3">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark3">
+		<name><![CDATA[San Jose Amtrak (SJC)]]></name>
+		<styleUrl>#icon3</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>waiting...<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.9028377532959,37.33007175702071,0</coordinates>
+			</Point>
+			<LineString id="line3">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-121.9028377532959,37.33007175702071,0 -122.20869541168213,37.419560713450196,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon4">
+		<IconStyle id="i4">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon4.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls4">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark4">
+		<name><![CDATA[Sacramento Amtrak (SAC)]]></name>
+		<styleUrl>#icon4</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>3am<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.500932,38.584842,0</coordinates>
+			</Point>
+			<LineString id="line4">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-121.500932,38.584842,0 -121.9028377532959,37.33007175702071,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon5">
+		<IconStyle id="i5">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon5.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls5">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark5">
+		<name><![CDATA[Chico Amtrak (CIC)]]></name>
+		<styleUrl>#icon5</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>5am...<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.84588372707367,39.72318086459336,0</coordinates>
+			</Point>
+			<LineString id="line5">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-121.84588372707367,39.72318086459336,0 -121.500932,38.584842,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon6">
+		<IconStyle id="i6">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon6.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls6">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark6">
+		<name><![CDATA[Redding Amtrak (RDD)]]></name>
+		<styleUrl>#icon6</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>sun starting to come up<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.39330649375916,40.58362397172647,0</coordinates>
+			</Point>
+			<LineString id="line6">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.39330649375916,40.58362397172647,0 -121.84588372707367,39.72318086459336,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon7">
+		<IconStyle id="i7">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon7.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls7">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark7">
+		<name><![CDATA[Klamath Falls Amtrak (KFS)]]></name>
+		<styleUrl>#icon7</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>fresh air and leg stretch. In Oregon!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.77173137664795,42.22537130210413,0</coordinates>
+			</Point>
+			<LineString id="line7">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-121.77173137664795,42.22537130210413,0 -122.39330649375916,40.58362397172647,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon8">
+		<IconStyle id="i8">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon8.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls8">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark8">
+		<name><![CDATA[Amtrak Station (EUG)]]></name>
+		<styleUrl>#icon8</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>running about 90 minutes late i think<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-123.09237599372864,44.05507873133573,0</coordinates>
+			</Point>
+			<LineString id="line8">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-123.09237599372864,44.05507873133573,0 -121.77173137664795,42.22537130210413,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon9">
+		<IconStyle id="i9">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon9.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls9">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark9">
+		<name><![CDATA[Amtrak Station (ALY)]]></name>
+		<styleUrl>#icon9</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>getting impatient<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-123.1029224395752,44.63024509634495,0</coordinates>
+			</Point>
+			<LineString id="line9">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-123.1029224395752,44.63024509634495,0 -123.09237599372864,44.05507873133573,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon10">
+		<IconStyle id="i10">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon10.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls10">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark10">
+		<name><![CDATA[Amtrak Station (SLM)]]></name>
+		<styleUrl>#icon10</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>yawn<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-123.028185,44.932328,0</coordinates>
+			</Point>
+			<LineString id="line10">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-123.028185,44.932328,0 -123.1029224395752,44.63024509634495,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon11">
+		<IconStyle id="i11">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon11.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls11">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark11">
+		<name><![CDATA[Union Station Amtrak (PDX)]]></name>
+		<styleUrl>#icon11</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>really hoping for a following wind now...<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.676923,45.528922,0</coordinates>
+			</Point>
+			<LineString id="line11">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.676923,45.528922,0 -123.028185,44.932328,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon12">
+		<IconStyle id="i12">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon12.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls12">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark12">
+		<name><![CDATA[Sunset Hill Park]]></name>
+		<styleUrl>#icon12</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>can hear seals :)<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4,47.6831,0</coordinates>
+			</Point>
+			<LineString id="line12">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.4,47.6831,0 -122.676923,45.528922,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon13">
+		<IconStyle id="i13">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon13.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls13">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark13">
+		<name><![CDATA[Beth's Cafe]]></name>
+		<styleUrl>#icon13</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>breakfast!!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.34463512897491,47.68211516622274,0</coordinates>
+			</Point>
+			<LineString id="line13">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.34463512897491,47.68211516622274,0 -122.4,47.6831,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon14">
+		<IconStyle id="i14">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon14.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls14">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark14">
+		<name><![CDATA[Tully's Coffee - Western & Lenora]]></name>
+		<styleUrl>#icon14</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>sucking up some wifi<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.343779,47.6104658,0</coordinates>
+			</Point>
+			<LineString id="line14">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.343779,47.6104658,0 -122.34463512897491,47.68211516622274,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon15">
+		<IconStyle id="i15">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon15.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls15">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark15">
+		<name><![CDATA[King Street Station - Seattle Amtrak (SEA)]]></name>
+		<styleUrl>#icon15</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>woo and yay! End me the line<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.32978105545044,47.598342908035356,0</coordinates>
+			</Point>
+			<LineString id="line15">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.32978105545044,47.598342908035356,0 -122.343779,47.6104658,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon16">
+		<IconStyle id="i16">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon16.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls16">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark16">
+		<name><![CDATA[Everett Station]]></name>
+		<styleUrl>#icon16</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>eating my supper.<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.197854,47.975512,0</coordinates>
+			</Point>
+			<LineString id="line16">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.197854,47.975512,0 -122.32978105545044,47.598342908035356,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon17">
+		<IconStyle id="i17">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon17.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls17">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark17">
+		<name><![CDATA[Wenatchee Amtrak Station]]></name>
+		<styleUrl>#icon17</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-120.306508,47.421871,0</coordinates>
+			</Point>
+			<LineString id="line17">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-120.306508,47.421871,0 -122.197854,47.975512,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon18">
+		<IconStyle id="i18">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon18.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls18">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark18">
+		<name><![CDATA[Amtrak Station]]></name>
+		<styleUrl>#icon18</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>Ephrata<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-119.549559,47.321556,0</coordinates>
+			</Point>
+			<LineString id="line18">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-119.549559,47.321556,0 -120.306508,47.421871,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon19">
+		<IconStyle id="i19">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon19.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls19">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark19">
+		<name><![CDATA[Spokane Amtrak]]></name>
+		<styleUrl>#icon19</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>next stop Idaho :)<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.413905,47.655924,0</coordinates>
+			</Point>
+			<LineString id="line19">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-117.413905,47.655924,0 -119.549559,47.321556,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon20">
+		<IconStyle id="i20">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon20.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls20">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark20">
+		<name><![CDATA[Amtrak Station]]></name>
+		<styleUrl>#icon20</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>Detroit Lakes MN<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-95.843061,46.8299135,0</coordinates>
+			</Point>
+			<LineString id="line20">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-95.843061,46.8299135,0 -117.413905,47.655924,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon21">
+		<IconStyle id="i21">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon21.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls21">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark21">
+		<name><![CDATA[Staples Amtrak Station]]></name>
+		<styleUrl>#icon21</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>riding into the sunrise<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-94.7950522,46.3545672,0</coordinates>
+			</Point>
+			<LineString id="line21">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-94.7950522,46.3545672,0 -95.843061,46.8299135,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon22">
+		<IconStyle id="i22">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon22.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls22">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark22">
+		<name><![CDATA[Minneapolis St. Paul Amtrak Station (MSP)]]></name>
+		<styleUrl>#icon22</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>first leg stretch me the day<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-93.184834,44.963302,0</coordinates>
+			</Point>
+			<LineString id="line22">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-93.184834,44.963302,0 -94.7950522,46.3545672,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon23">
+		<IconStyle id="i23">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon23.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls23">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark23">
+		<name><![CDATA[Amtrak RDW]]></name>
+		<styleUrl>#icon23</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>red wing MN 1 hour or so later than schedule<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-92.5375994,44.5665219,0</coordinates>
+			</Point>
+			<LineString id="line23">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-92.5375994,44.5665219,0 -93.184834,44.963302,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon24">
+		<IconStyle id="i24">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon24.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls24">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark24">
+		<name><![CDATA[Amtrak WIN]]></name>
+		<styleUrl>#icon24</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-91.6397588,44.0444216,0</coordinates>
+			</Point>
+			<LineString id="line24">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-91.6397588,44.0444216,0 -92.5375994,44.5665219,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon25">
+		<IconStyle id="i25">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon25.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls25">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark25">
+		<name><![CDATA[La Crosse - Amtrak]]></name>
+		<styleUrl>#icon25</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>I'm in Wisconsin!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-91.246027,43.834394,0</coordinates>
+			</Point>
+			<LineString id="line25">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-91.246027,43.834394,0 -91.6397588,44.0444216,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon26">
+		<IconStyle id="i26">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon26.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls26">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark26">
+		<name><![CDATA[Tomah Amtrak Station]]></name>
+		<styleUrl>#icon26</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>having lunch - burger!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.50537109375,43.98602173199627,0</coordinates>
+			</Point>
+			<LineString id="line26">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.50537109375,43.98602173199627,0 -91.246027,43.834394,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon27">
+		<IconStyle id="i27">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon27.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls27">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark27">
+		<name><![CDATA[Amtrak-Wisconsin Dells WDL]]></name>
+		<styleUrl>#icon27</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-89.7709579,43.6274794,0</coordinates>
+			</Point>
+			<LineString id="line27">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-89.7709579,43.6274794,0 -90.50537109375,43.98602173199627,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon28">
+		<IconStyle id="i28">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon28.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls28">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark28">
+		<name><![CDATA[Amtrak - Portage, WI]]></name>
+		<styleUrl>#icon28</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>getting closer about 90 mins to Milwaukee!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-89.467516,43.54721,0</coordinates>
+			</Point>
+			<LineString id="line28">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-89.467516,43.54721,0 -89.7709579,43.6274794,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon29">
+		<IconStyle id="i29">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon29.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls29">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark29">
+		<name><![CDATA[Amtrak: Milwaukee (MKE)]]></name>
+		<styleUrl>#icon29</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>hey @tapps I'm in ur town. Tell me how to find you :)<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.91736125946045,43.03434482794988,0</coordinates>
+			</Point>
+			<LineString id="line29">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.91736125946045,43.03434482794988,0 -89.467516,43.54721,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon30">
+		<IconStyle id="i30">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon30.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls30">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark30">
+		<name><![CDATA[Amtrak: Sturtevant (SVT)]]></name>
+		<styleUrl>#icon30</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.90628910064697,42.718232097467556,0</coordinates>
+			</Point>
+			<LineString id="line30">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.90628910064697,42.718232097467556,0 -87.91736125946045,43.03434482794988,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon31">
+		<IconStyle id="i31">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon31.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls31">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark31">
+		<name><![CDATA[Glenview Amtrak Station]]></name>
+		<styleUrl>#icon31</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.805135,42.0740032,0</coordinates>
+			</Point>
+			<LineString id="line31">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.805135,42.0740032,0 -87.90628910064697,42.718232097467556,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon32">
+		<IconStyle id="i32">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon32.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls32">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark32">
+		<name><![CDATA[Texas Eagle - Amtrak #21/321 - Southbound]]></name>
+		<styleUrl>#icon32</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>powerless but happy :)<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.661504,41.837517,0</coordinates>
+			</Point>
+			<LineString id="line32">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.661504,41.837517,0 -87.805135,42.0740032,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon33">
+		<IconStyle id="i33">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon33.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls33">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark33">
+		<name><![CDATA[Joliet Metra Amtrak (JOL)]]></name>
+		<styleUrl>#icon33</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-88.0800941,41.524987,0</coordinates>
+			</Point>
+			<LineString id="line33">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-88.0800941,41.524987,0 -87.661504,41.837517,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon34">
+		<IconStyle id="i34">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon34.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls34">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark34">
+		<name><![CDATA[Amtrak Bloomington-Normal]]></name>
+		<styleUrl>#icon34</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-88.983752,40.50834282,0</coordinates>
+			</Point>
+			<LineString id="line34">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-88.983752,40.50834282,0 -88.0800941,41.524987,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon35">
+		<IconStyle id="i35">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon35.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls35">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark35">
+		<name><![CDATA[The Grassy Knoll]]></name>
+		<styleUrl>#icon35</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>wow<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-96.80854082107544,32.779391054332706,0</coordinates>
+			</Point>
+			<LineString id="line35">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-96.80854082107544,32.779391054332706,0 -88.983752,40.50834282,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon36">
+		<IconStyle id="i36">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon36.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls36">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark36">
+		<name><![CDATA[Union amtrak station]]></name>
+		<styleUrl>#icon36</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>and onwards to Austin!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-96.808531,32.776191,0</coordinates>
+			</Point>
+			<LineString id="line36">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-96.808531,32.776191,0 -96.80854082107544,32.779391054332706,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon37">
+		<IconStyle id="i37">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon37.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls37">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark37">
+		<name><![CDATA[Fort Worth Amtrak Station]]></name>
+		<styleUrl>#icon37</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>another lay over...<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.325678,32.752022,0</coordinates>
+			</Point>
+			<LineString id="line37">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.325678,32.752022,0 -96.808531,32.776191,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon38">
+		<IconStyle id="i38">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon38.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls38">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark38">
+		<name><![CDATA[Cork & Co.]]></name>
+		<styleUrl>#icon38</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.743891,30.265684,0</coordinates>
+			</Point>
+			<LineString id="line38">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.743891,30.265684,0 -97.325678,32.752022,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon39">
+		<IconStyle id="i39">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon39.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls39">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark39">
+		<name><![CDATA[The Belmont]]></name>
+		<styleUrl>#icon39</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.74567246437073,30.268685975741803,0</coordinates>
+			</Point>
+			<LineString id="line39">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.74567246437073,30.268685975741803,0 -97.743891,30.265684,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon40">
+		<IconStyle id="i40">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon40.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls40">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark40">
+		<name><![CDATA[Coyote Ugly Saloon]]></name>
+		<styleUrl>#icon40</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.738192,30.266484,0</coordinates>
+			</Point>
+			<LineString id="line40">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.738192,30.266484,0 -97.74567246437073,30.268685975741803,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon41">
+		<IconStyle id="i41">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon41.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls41">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark41">
+		<name><![CDATA[Austin Memorial Park Cemetary]]></name>
+		<styleUrl>#icon41</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>secretly<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.7491488,30.3276534,0</coordinates>
+			</Point>
+			<LineString id="line41">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.7491488,30.3276534,0 -97.738192,30.266484,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon42">
+		<IconStyle id="i42">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon42.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls42">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark42">
+		<name><![CDATA[Iron Works BBQ]]></name>
+		<styleUrl>#icon42</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.739014,30.262172,0</coordinates>
+			</Point>
+			<LineString id="line42">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.739014,30.262172,0 -97.7491488,30.3276534,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon43">
+		<IconStyle id="i43">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon43.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls43">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark43">
+		<name><![CDATA[Austin Convention Center]]></name>
+		<styleUrl>#icon43</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>along with just about everyone else in the universe<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.7395248413086,30.263626507653434,0</coordinates>
+			</Point>
+			<LineString id="line43">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.7395248413086,30.263626507653434,0 -97.739014,30.262172,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon44">
+		<IconStyle id="i44">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon44.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls44">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark44">
+		<name><![CDATA[Six Lounge]]></name>
+		<styleUrl>#icon44</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>cheezburger<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.74461030960083,30.266221139241622,0</coordinates>
+			</Point>
+			<LineString id="line44">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.74461030960083,30.266221139241622,0 -97.7395248413086,30.263626507653434,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon45">
+		<IconStyle id="i45">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon45.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls45">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark45">
+		<name><![CDATA[Casa Chapala Mexican]]></name>
+		<styleUrl>#icon45</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>#technomad meetup<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.7422446012497,30.26303343937794,0</coordinates>
+			</Point>
+			<LineString id="line45">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.7422446012497,30.26303343937794,0 -97.74461030960083,30.266221139241622,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon46">
+		<IconStyle id="i46">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon46.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls46">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark46">
+		<name><![CDATA[Latitude 30]]></name>
+		<styleUrl>#icon46</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>MMXINI<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.74061918258667,30.267073646083887,0</coordinates>
+			</Point>
+			<LineString id="line46">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.74061918258667,30.267073646083887,0 -97.7422446012497,30.26303343937794,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon47">
+		<IconStyle id="i47">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon47.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls47">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark47">
+		<name><![CDATA[Lucky Lounge]]></name>
+		<styleUrl>#icon47</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.74533987045288,30.26748136413088,0</coordinates>
+			</Point>
+			<LineString id="line47">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.74533987045288,30.26748136413088,0 -97.74061918258667,30.267073646083887,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon48">
+		<IconStyle id="i48">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon48.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls48">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark48">
+		<name><![CDATA[The Hideout Theatre]]></name>
+		<styleUrl>#icon48</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.7425061,30.2686176,0</coordinates>
+			</Point>
+			<LineString id="line48">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.7425061,30.2686176,0 -97.74533987045288,30.26748136413088,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon49">
+		<IconStyle id="i49">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon49.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls49">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark49">
+		<name><![CDATA[Sam's Boat]]></name>
+		<styleUrl>#icon49</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>chicken & shrimp grill coming up!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.73464,30.397438,0</coordinates>
+			</Point>
+			<LineString id="line49">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.73464,30.397438,0 -97.7425061,30.2686176,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon50">
+		<IconStyle id="i50">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon50.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls50">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark50">
+		<name><![CDATA[Whole Foods Market]]></name>
+		<styleUrl>#icon50</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>munching on carrots<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.7535599,30.270649,0</coordinates>
+			</Point>
+			<LineString id="line50">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.7535599,30.270649,0 -97.73464,30.397438,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon51">
+		<IconStyle id="i51">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon51.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls51">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark51">
+		<name><![CDATA[Austin Train Station - Amtrak]]></name>
+		<styleUrl>#icon51</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>woo !<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.75626182556152,30.269594057800575,0</coordinates>
+			</Point>
+			<LineString id="line51">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.75626182556152,30.269594057800575,0 -97.7535599,30.270649,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon52">
+		<IconStyle id="i52">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon52.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls52">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark52">
+		<name><![CDATA[San Marcos Station]]></name>
+		<styleUrl>#icon52</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>stopped 3 times for freight on the way down<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-97.9417689,29.876314,0</coordinates>
+			</Point>
+			<LineString id="line52">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-97.9417689,29.876314,0 -97.75626182556152,30.269594057800575,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon53">
+		<IconStyle id="i53">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon53.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls53">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark53">
+		<name><![CDATA[San Antonio Station]]></name>
+		<styleUrl>#icon53</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-98.4788844,29.4196943,0</coordinates>
+			</Point>
+			<LineString id="line53">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-98.4788844,29.4196943,0 -97.9417689,29.876314,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon54">
+		<IconStyle id="i54">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon54.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls54">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark54">
+		<name><![CDATA[Houston Amtrak Station]]></name>
+		<styleUrl>#icon54</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>woken up by people getting on<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-95.3678889,29.7664842,0</coordinates>
+			</Point>
+			<LineString id="line54">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-95.3678889,29.7664842,0 -98.4788844,29.4196943,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon55">
+		<IconStyle id="i55">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon55.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls55">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark55">
+		<name><![CDATA[Amtrak - Beaumont, TX]]></name>
+		<styleUrl>#icon55</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>still running very late<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-94.12763427,30.07625275,0</coordinates>
+			</Point>
+			<LineString id="line55">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-94.12763427,30.07625275,0 -95.3678889,29.7664842,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon56">
+		<IconStyle id="i56">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon56.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls56">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark56">
+		<name><![CDATA[Lake Charles Amtrack station]]></name>
+		<styleUrl>#icon56</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>nearly there...<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-93.214612,30.238138,0</coordinates>
+			</Point>
+			<LineString id="line56">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-93.214612,30.238138,0 -94.12763427,30.07625275,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon57">
+		<IconStyle id="i57">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon57.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls57">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark57">
+		<name><![CDATA[Mississippi River Dog Beach]]></name>
+		<styleUrl>#icon57</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>belated check-in walked here earlier<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.135376,29.930441,0</coordinates>
+			</Point>
+			<LineString id="line57">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.135376,29.930441,0 -93.214612,30.238138,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon58">
+		<IconStyle id="i58">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon58.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls58">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark58">
+		<name><![CDATA[Goodwill Training Center]]></name>
+		<styleUrl>#icon58</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.0986533,29.9653681,0</coordinates>
+			</Point>
+			<LineString id="line58">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.0986533,29.9653681,0 -90.135376,29.930441,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon59">
+		<IconStyle id="i59">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon59.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls59">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark59">
+		<name><![CDATA[Oak Street Cafe]]></name>
+		<styleUrl>#icon59</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>joined Charles on piano for a couple of numbers. Met Biff Rose<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.1301713,29.9476386,0</coordinates>
+			</Point>
+			<LineString id="line59">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.1301713,29.9476386,0 -90.0986533,29.9653681,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon60">
+		<IconStyle id="i60">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon60.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls60">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark60">
+		<name><![CDATA[Blue Cypress Books]]></name>
+		<styleUrl>#icon60</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>met Elizabeth, the owner and bought a book<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.1300459,29.9475373,0</coordinates>
+			</Point>
+			<LineString id="line60">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.1300459,29.9475373,0 -90.1301713,29.9476386,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon61">
+		<IconStyle id="i61">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls61">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark61">
+		<name><![CDATA[Nonna Mia Cafe and Pizzeria]]></name>
+		<styleUrl>#icon61</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>next door to cafe degas where we didn't eat last year either :)<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.083989,29.980291,0</coordinates>
+			</Point>
+			<LineString id="line61">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.083989,29.980291,0 -90.1300459,29.9475373,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon62">
+		<IconStyle id="i62">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon62.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls62">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark62">
+		<name><![CDATA[Audubon Park]]></name>
+		<styleUrl>#icon62</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>afternoon stroll<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.12797355651855,29.926671724759164,0</coordinates>
+			</Point>
+			<LineString id="line62">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.12797355651855,29.926671724759164,0 -90.083989,29.980291,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon63">
+		<IconStyle id="i63">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon63.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls63">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark63">
+		<name><![CDATA[Tulane University]]></name>
+		<styleUrl>#icon63</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>walking through uptown campus<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.122877,29.935226,0</coordinates>
+			</Point>
+			<LineString id="line63">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.122877,29.935226,0 -90.12797355651855,29.926671724759164,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon64">
+		<IconStyle id="i64">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon64.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls64">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark64">
+		<name><![CDATA[New Orleans Amtrak Station]]></name>
+		<styleUrl>#icon64</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>with a ticket to Chicago. Goodbye NOLA. Thanks @MrRayNichols!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.0775916,29.9454973,0</coordinates>
+			</Point>
+			<LineString id="line64">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.0775916,29.9454973,0 -90.122877,29.935226,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon65">
+		<IconStyle id="i65">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon65.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls65">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark65">
+		<name><![CDATA[Amtrak: Jackson (JAN)]]></name>
+		<styleUrl>#icon65</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>hotter than a pepper sprout<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.19134,32.301524,0</coordinates>
+			</Point>
+			<LineString id="line65">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.19134,32.301524,0 -90.0775916,29.9454973,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon66">
+		<IconStyle id="i66">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon66.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls66">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark66">
+		<name><![CDATA[Amtrak - Memphis]]></name>
+		<styleUrl>#icon66</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>too dark to see much. Lot's of people getting off<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-90.059966,35.130562,0</coordinates>
+			</Point>
+			<LineString id="line66">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-90.059966,35.130562,0 -90.19134,32.301524,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon67">
+		<IconStyle id="i67">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon67.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls67">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark67">
+		<name><![CDATA[Illinois Terminal]]></name>
+		<styleUrl>#icon67</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>waking up. Still dark outside. And 3 more hours to Chicago<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-88.24095446,40.11577819,0</coordinates>
+			</Point>
+			<LineString id="line67">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-88.24095446,40.11577819,0 -90.059966,35.130562,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon68">
+		<IconStyle id="i68">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon68.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls68">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark68">
+		<name><![CDATA[Kankakee Amtrak Station]]></name>
+		<styleUrl>#icon68</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>while breakfasting<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.866089,41.11875772476196,0</coordinates>
+			</Point>
+			<LineString id="line68">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.866089,41.11875772476196,0 -88.24095446,40.11577819,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon69">
+		<IconStyle id="i69">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon69.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls69">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark69">
+		<name><![CDATA[Intelligentsia Coffee]]></name>
+		<styleUrl>#icon69</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>counting my fingers as i thaw a little from walking 500yds or so<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.62948513031006,41.877901218486535,0</coordinates>
+			</Point>
+			<LineString id="line69">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.62948513031006,41.877901218486535,0 -87.866089,41.11875772476196,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon70">
+		<IconStyle id="i70">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon70.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls70">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark70">
+		<name><![CDATA[Union Station Amtrak (CHI)]]></name>
+		<styleUrl>#icon70</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>hour or so lay over<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.6393985748291,41.87865211986829,0</coordinates>
+			</Point>
+			<LineString id="line70">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.6393985748291,41.87865211986829,0 -87.62948513031006,41.877901218486535,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon71">
+		<IconStyle id="i71">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon71.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls71">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark71">
+		<name><![CDATA[Dyer Indiana Amtrak Station]]></name>
+		<styleUrl>#icon71</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>first time in Indiana :)<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.518234,41.515027,0</coordinates>
+			</Point>
+			<LineString id="line71">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.518234,41.515027,0 -87.6393985748291,41.87865211986829,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon72">
+		<IconStyle id="i72">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon72.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls72">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark72">
+		<name><![CDATA[Amtrak Station]]></name>
+		<styleUrl>#icon72</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-87.15535606666667,40.94332125,0</coordinates>
+			</Point>
+			<LineString id="line72">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-87.15535606666667,40.94332125,0 -87.518234,41.515027,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon73">
+		<IconStyle id="i73">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon73.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls73">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark73">
+		<name><![CDATA[Lafayette Amtrak]]></name>
+		<styleUrl>#icon73</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-86.8954923,40.419128,0</coordinates>
+			</Point>
+			<LineString id="line73">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-86.8954923,40.419128,0 -87.15535606666667,40.94332125,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon74">
+		<IconStyle id="i74">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon74.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls74">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark74">
+		<name><![CDATA[Amtrak Station]]></name>
+		<styleUrl>#icon74</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-86.8998216,40.0430198,0</coordinates>
+			</Point>
+			<LineString id="line74">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-86.8998216,40.0430198,0 -86.8954923,40.419128,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon75">
+		<IconStyle id="i75">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon75.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls75">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark75">
+		<name><![CDATA[Cincinnati Amtrak (CIN)]]></name>
+		<styleUrl>#icon75</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>early in the morning<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-84.537091,39.11,0</coordinates>
+			</Point>
+			<LineString id="line75">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-84.537091,39.11,0 -86.8998216,40.0430198,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon76">
+		<IconStyle id="i76">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon76.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls76">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark76">
+		<name><![CDATA[Staunton Amtrak Station]]></name>
+		<styleUrl>#icon76</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>connectivity again!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-79.0740662,38.1470035,0</coordinates>
+			</Point>
+			<LineString id="line76">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-79.0740662,38.1470035,0 -84.537091,39.11,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon77">
+		<IconStyle id="i77">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon77.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls77">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark77">
+		<name><![CDATA[Amtrak Charlottesville, VA (CVS)]]></name>
+		<styleUrl>#icon77</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-78.491842,38.031536,0</coordinates>
+			</Point>
+			<LineString id="line77">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-78.491842,38.031536,0 -79.0740662,38.1470035,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon78">
+		<IconStyle id="i78">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon78.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls78">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark78">
+		<name><![CDATA[Starbucks]]></name>
+		<styleUrl>#icon78</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>coffee and blogging<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-77.02185273170471,38.89600966782142,0</coordinates>
+			</Point>
+			<LineString id="line78">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-77.02185273170471,38.89600966782142,0 -78.491842,38.031536,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon79">
+		<IconStyle id="i79">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon79.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls79">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark79">
+		<name><![CDATA[National Portrait Gallery]]></name>
+		<styleUrl>#icon79</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-77.023521,38.897041,0</coordinates>
+			</Point>
+			<LineString id="line79">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-77.023521,38.897041,0 -77.02185273170471,38.89600966782142,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon80">
+		<IconStyle id="i80">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon80.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls80">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark80">
+		<name><![CDATA[Thomas Jefferson Memorial]]></name>
+		<styleUrl>#icon80</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-77.03646004199982,38.881370412399775,0</coordinates>
+			</Point>
+			<LineString id="line80">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-77.03646004199982,38.881370412399775,0 -77.023521,38.897041,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon81">
+		<IconStyle id="i81">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon81.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls81">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark81">
+		<name><![CDATA[Washington Monument]]></name>
+		<styleUrl>#icon81</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>eet eez a giant willy<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-77.03525841236115,38.889462878011365,0</coordinates>
+			</Point>
+			<LineString id="line81">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-77.03525841236115,38.889462878011365,0 -77.03646004199982,38.881370412399775,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon82">
+		<IconStyle id="i82">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon82.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls82">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark82">
+		<name><![CDATA[Union Station]]></name>
+		<styleUrl>#icon82</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>at last<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-77.00647830963135,38.89774646995226,0</coordinates>
+			</Point>
+			<LineString id="line82">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-77.00647830963135,38.89774646995226,0 -77.03525841236115,38.889462878011365,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon83">
+		<IconStyle id="i83">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon83.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls83">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark83">
+		<name><![CDATA[Baltimore Penn Station]]></name>
+		<styleUrl>#icon83</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-76.615675,39.307345,0</coordinates>
+			</Point>
+			<LineString id="line83">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-76.615675,39.307345,0 -77.00647830963135,38.89774646995226,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon84">
+		<IconStyle id="i84">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon84.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls84">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark84">
+		<name><![CDATA[Philadelphia. Amtrak Station]]></name>
+		<styleUrl>#icon84</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-75.18210363,39.96007251666666,0</coordinates>
+			</Point>
+			<LineString id="line84">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-75.18210363,39.96007251666666,0 -76.615675,39.307345,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon85">
+		<IconStyle id="i85">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon85.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls85">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark85">
+		<name><![CDATA[Trenton Transit Center]]></name>
+		<styleUrl>#icon85</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-74.75382506847382,40.21858938980686,0</coordinates>
+			</Point>
+			<LineString id="line85">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-74.75382506847382,40.21858938980686,0 -75.18210363,39.96007251666666,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon86">
+		<IconStyle id="i86">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon86.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls86">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark86">
+		<name><![CDATA[Metropark Amtrak (MET)]]></name>
+		<styleUrl>#icon86</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-74.329911,40.567427,0</coordinates>
+			</Point>
+			<LineString id="line86">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-74.329911,40.567427,0 -74.75382506847382,40.21858938980686,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon87">
+		<IconStyle id="i87">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon87.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls87">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark87">
+		<name><![CDATA[Newark Penn Station]]></name>
+		<styleUrl>#icon87</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-74.16384100914001,40.73454335903537,0</coordinates>
+			</Point>
+			<LineString id="line87">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-74.16384100914001,40.73454335903537,0 -74.329911,40.567427,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon88">
+		<IconStyle id="i88">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon88.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls88">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark88">
+		<name><![CDATA[Amtrak - Rte 128 Station]]></name>
+		<styleUrl>#icon88</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.14756554365158,42.21041745738999,0</coordinates>
+			</Point>
+			<LineString id="line88">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.14756554365158,42.21041745738999,0 -74.16384100914001,40.73454335903537,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon89">
+		<IconStyle id="i89">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon89.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls89">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark89">
+		<name><![CDATA[Anderson RTC]]></name>
+		<styleUrl>#icon89</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>on my way Maine-ward @podchef :)<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.1407731,42.5173544,0</coordinates>
+			</Point>
+			<LineString id="line89">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.1407731,42.5173544,0 -71.14756554365158,42.21041745738999,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon90">
+		<IconStyle id="i90">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon90.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls90">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark90">
+		<name><![CDATA[Haverhill Station]]></name>
+		<styleUrl>#icon90</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.086378,42.77329981327057,0</coordinates>
+			</Point>
+			<LineString id="line90">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.086378,42.77329981327057,0 -71.1407731,42.5173544,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon91">
+		<IconStyle id="i91">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon91.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls91">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark91">
+		<name><![CDATA[Exeter Station]]></name>
+		<styleUrl>#icon91</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>New Hampshire not devon<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-70.957758,42.9813098,0</coordinates>
+			</Point>
+			<LineString id="line91">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-70.957758,42.9813098,0 -71.086378,42.77329981327057,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon92">
+		<IconStyle id="i92">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon92.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls92">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark92">
+		<name><![CDATA[Durham-UNH Amtrak]]></name>
+		<styleUrl>#icon92</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-70.9377309,43.1395483,0</coordinates>
+			</Point>
+			<LineString id="line92">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-70.9377309,43.1395483,0 -70.957758,42.9813098,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon93">
+		<IconStyle id="i93">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon93.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls93">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark93">
+		<name><![CDATA[Wells Amtrak]]></name>
+		<styleUrl>#icon93</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-70.6116667,43.3202778,0</coordinates>
+			</Point>
+			<LineString id="line93">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-70.6116667,43.3202778,0 -70.9377309,43.1395483,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon94">
+		<IconStyle id="i94">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon94.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls94">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark94">
+		<name><![CDATA[Portland Transportation Center]]></name>
+		<styleUrl>#icon94</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-70.2919,43.6536,0</coordinates>
+			</Point>
+			<LineString id="line94">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-70.2919,43.6536,0 -70.6116667,43.3202778,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon95">
+		<IconStyle id="i95">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon95.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls95">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark95">
+		<name><![CDATA[Anania's Variety]]></name>
+		<styleUrl>#icon95</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>antipasti salad yum<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-70.28991889,43.65754365,0</coordinates>
+			</Point>
+			<LineString id="line95">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-70.28991889,43.65754365,0 -70.2919,43.6536,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon96">
+		<IconStyle id="i96">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon96.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls96">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark96">
+		<name><![CDATA[MBTA North Station]]></name>
+		<styleUrl>#icon96</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>with plenty of time to spare. But dunkin' donuts gave me coffee with milk and sugar Yuk!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.06122255325317,42.365575658849274,0</coordinates>
+			</Point>
+			<LineString id="line96">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.06122255325317,42.365575658849274,0 -70.28991889,43.65754365,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon97">
+		<IconStyle id="i97">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon97.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls97">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark97">
+		<name><![CDATA[Whole Foods Market]]></name>
+		<styleUrl>#icon97</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>phew<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.08725070953369,42.34388730306965,0</coordinates>
+			</Point>
+			<LineString id="line97">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.08725070953369,42.34388730306965,0 -71.06122255325317,42.365575658849274,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon98">
+		<IconStyle id="i98">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon98.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls98">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark98">
+		<name><![CDATA[MBTA Back Bay Station]]></name>
+		<styleUrl>#icon98</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>checking in early as I'm getting off here<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.0743761062622,42.34731686860313,0</coordinates>
+			</Point>
+			<LineString id="line98">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.0743761062622,42.34731686860313,0 -71.08725070953369,42.34388730306965,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon99">
+		<IconStyle id="i99">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon99.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls99">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark99">
+		<name><![CDATA[Providence Train Station]]></name>
+		<styleUrl>#icon99</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>about to be invaded by commuters!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.41336441040039,41.829633313916666,0</coordinates>
+			</Point>
+			<LineString id="line99">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.41336441040039,41.829633313916666,0 -71.0743761062622,42.34731686860313,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon100">
+		<IconStyle id="i100">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon100.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls100">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark100">
+		<name><![CDATA[Kingston Amtrak Station (KIN)]]></name>
+		<styleUrl>#icon100</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.56059,41.483794,0</coordinates>
+			</Point>
+			<LineString id="line100">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.56059,41.483794,0 -71.41336441040039,41.829633313916666,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon101">
+		<IconStyle id="i101">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon101.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls101">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark101">
+		<name><![CDATA[Mystic Amtrak Station]]></name>
+		<styleUrl>#icon101</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>also nearby mystic pizza!<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-71.95984840393066,41.34891499759739,0</coordinates>
+			</Point>
+			<LineString id="line101">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-71.95984840393066,41.34891499759739,0 -71.56059,41.483794,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon102">
+		<IconStyle id="i102">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon102.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls102">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark102">
+		<name><![CDATA[New London Union Station (NLC) - Amtrak/SLE]]></name>
+		<styleUrl>#icon102</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>only just awake<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-72.09286451339722,41.354294941818225,0</coordinates>
+			</Point>
+			<LineString id="line102">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-72.09286451339722,41.354294941818225,0 -71.95984840393066,41.34891499759739,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon103">
+		<IconStyle id="i103">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon103.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls103">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark103">
+		<name><![CDATA[New Haven Union Station (NHV) - Metro North & Amtrak]]></name>
+		<styleUrl>#icon103</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-72.92681694030762,41.29760602418046,0</coordinates>
+			</Point>
+			<LineString id="line103">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-72.92681694030762,41.29760602418046,0 -72.09286451339722,41.354294941818225,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon104">
+		<IconStyle id="i104">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon104.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls104">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark104">
+		<name><![CDATA[Bridgeport Train Station (BRP) - Metro North & Amtrak]]></name>
+		<styleUrl>#icon104</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-73.18696975708008,41.177975654664785,0</coordinates>
+			</Point>
+			<LineString id="line104">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-73.18696975708008,41.177975654664785,0 -72.92681694030762,41.29760602418046,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon105">
+		<IconStyle id="i105">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon105.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls105">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark105">
+		<name><![CDATA[Stamford Train Station (STM) Metro North & Amtrak]]></name>
+		<styleUrl>#icon105</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>though i could handle stamford bridge - it's a shorter walk home...<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-73.54183673858643,41.04692886046984,0</coordinates>
+			</Point>
+			<LineString id="line105">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-73.54183673858643,41.04692886046984,0 -73.18696975708008,41.177975654664785,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon106">
+		<IconStyle id="i106">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon106.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls106">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark106">
+		<name><![CDATA[MTA Subway - 72nd St (1/2/3)]]></name>
+		<styleUrl>#icon106</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-73.98201942443848,40.77868912121111,0</coordinates>
+			</Point>
+			<LineString id="line106">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-73.98201942443848,40.77868912121111,0 -73.54183673858643,41.04692886046984,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon107">
+		<IconStyle id="i107">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon107.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls107">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark107">
+		<name><![CDATA[Union Square]]></name>
+		<styleUrl>#icon107</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>looking for @tdavidson<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-73.99071504,40.735195,0</coordinates>
+			</Point>
+			<LineString id="line107">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-73.99071504,40.735195,0 -73.98201942443848,40.77868912121111,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon108">
+		<IconStyle id="i108">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon108.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls108">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark108">
+		<name><![CDATA[Nintendo World]]></name>
+		<styleUrl>#icon108</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-73.97946327924728,40.75801773059064,0</coordinates>
+			</Point>
+			<LineString id="line108">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97946327924728,40.75801773059064,0 -73.99071504,40.735195,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon109">
+		<IconStyle id="i109">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon109.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls109">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark109">
+		<name><![CDATA[Grand Central Terminal]]></name>
+		<styleUrl>#icon109</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>getting bus to jfk<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-73.97717535495758,40.75280620914171,0</coordinates>
+			</Point>
+			<LineString id="line109">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-73.97717535495758,40.75280620914171,0 -73.97946327924728,40.75801773059064,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon110">
+		<IconStyle id="i110">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon110.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls110">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark110">
+		<name><![CDATA[JFK Airport - Terminal 4]]></name>
+		<styleUrl>#icon110</styleUrl>
+		<description><![CDATA[<table width="400"><tr><td>fin<br/></td></tr></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-73.78340721130371,40.64372172111703,0</coordinates>
+			</Point>
+			<LineString id="line110">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-73.78340721130371,40.64372172111703,0 -73.97717535495758,40.75280620914171,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Style id="icon111">
+		<IconStyle id="i111">
+			<color>ffffffff</color>			<Icon>
+				<href>http://www.tripline.net/api/icon111.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle id="ls111">
+			<color>fc0000ff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="placemark111">
+		<name><![CDATA[King Street Station - Seattle Amtrak (SEA)]]></name>
+		<styleUrl>#icon111</styleUrl>
+		<description><![CDATA[<table width="400"></table>]]></description>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.32978105545,47.598342908035,0</coordinates>
+			</Point>
+			<LineString id="line111">
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-122.32978105545,47.598342908035,0 -73.78340721130371,40.64372172111703,0</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Folder>
+</Document>
+</kml>
