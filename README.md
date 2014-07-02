@@ -9,7 +9,11 @@ I'm now experimenting with re-telling the stories from that trip, using github t
 
 For a little more detail look at the [wiki][1]
 
-Everything here is licenced under [Creative Commons Attribution Share-Alike 2.0 UK][2]  (CC BY-SA) which roughly speaking means you can do anything you like with it as long as you give me attribution for the parts that you use and you don't restrict the licencing of any work based on mine, whether you use it whole or in part.
+If you've suggestions for improving the [current e-book][2] or ideas for new products, [raise an issue][3]
+
+Everything here is licenced under [Creative Commons Attribution Share-Alike 2.0 UK][4]  (CC BY-SA) which roughly speaking means you can do anything you like with it as long as you give me attribution for the parts that you use and you don't restrict the licencing of any work based on mine, whether you use it whole or in part.
 
 [1]:  https://github.com/lloyddavis/PLATE/wiki
-[2]:  https://creativecommons.org/licenses/by-sa/2.0/uk/
+[2]:  https://gum.co/gDeo
+[3]:  https://github.com/lloyddavis/PLATE/issues
+[4]:  https://creativecommons.org/licenses/by-sa/2.0/uk/
